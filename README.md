@@ -1,6 +1,6 @@
-# My Skills Workspace
+# My Skills
 
-Repo for authoring, managing, and synchronizing custom agent skills for **Claude Code** and **Google Antigravity**.
+Personal repo for authoring, managing, and synchronizing custom agent skills for **Claude Code** and **Google Antigravity**.
 
 ---
 
